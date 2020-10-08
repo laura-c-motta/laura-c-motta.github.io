@@ -1,24 +1,48 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Postdoctoral Fellow in the [Division of Environmental Studies and Engineering](http://dese.postech.ac.kr/welcomeeng.do) at Pohang University of Science and Technology (POSTECH). Currently, I work with Professor Sae Yun Kwon to determine the photochemical degradation of mercury within marine phytoplankton using mercury stable isotopes coupled with X-ray absorption fine structure spectroscopy at the synchrotron facility in the Pohang Accelerator Laboratory, South Korea. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests include theory and computational chemistry of photochemical reactions and exotic isotope effects, experimental photochemistry using stable isotopes, marine phytoplankton and zooplankton, and oceanography field work. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I completed my dual PhD in **Environmental Sciences** under the supervision of Professor Joel D. Blum and in **Chemistry** under the supervision of Professor Paul Zimmerman in Dec 2019 as a National Science Foundation graduate fellow and Rackham Merit Fellow. I received a B.A. in **Chemistry** in May 2013 from Rutgers the State University of New Jersey, where I work on mercury photolysis within marine phytoplankton under the supervision of John R. Reinfelder.
+
+### Awards
+University of Michigan International Institute Fellowship to study relativistic quantum chemistry at CNRS, France (2019)
+                                                               
+International W. Linfield Award Fellowship, University of Michigan (2019)      
+                                                                        
+University of Michigan Karle Symposium Poster Award – Physical Chemistry Cluster (2018)      
+                                                            
+Rackham Graduate Research Award, University of Michigan (2018)      
+                                                                    
+Turner Research Award, University of Michigan (2015;2018)         
+                                                
+National Science Foundation Graduate Research Fellowship (2014-2019)  
+                                                   
+Rackham Merit Fellowship, University of Michigan (2014-2019)   
+                                                                                                   
+Chemistry Honors Program, Rutgers University (2012-2013)
+
+National Science Foundation International Research Experience for Undergraduate Students, São Pablo, Brazil (Summer, 2011)
+
+Elizabeth and Arthur Reich Scholarship, Rutgers University (2009-2010)      
+                                                                                   
+Excellence in Chemistry – Linden High School (2009)        
+                                                                                              
+
+
+
+

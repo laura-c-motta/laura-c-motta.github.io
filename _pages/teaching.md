@@ -1,11 +1,16 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Graduate Student Instructor (University of Michigan)
 
-Organize your courses by years, topics, or universities, however you like!
+- *Thermodynamics and Kinetics* (CHEM 463), Winter 2018.
+
+
+### Guest Lecture 
+- Two guest lectures in **Isotope Geochemistry** (EARTH 580), Fall 2017.
+                                      
