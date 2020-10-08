@@ -17,7 +17,7 @@ I am a Postdoctoral Fellow in the [Division of Environmental Studies and Enginee
 
 My research interests include theory and computational chemistry of photochemical reactions and exotic isotope effects, experimental photochemistry using stable isotopes, marine phytoplankton and zooplankton, and oceanography field work. 
 
-Previously, I completed my dual PhD in **Environmental Sciences** under the supervision of Professor Joel D. Blum and in **Chemistry** under the supervision of Professor Paul Zimmerman in Dec 2019 as a National Science Foundation graduate fellow and Rackham Merit Fellow. I received a B.A. in **Chemistry** in May 2013 from Rutgers the State University of New Jersey, where I work on mercury photolysis within marine phytoplankton under the supervision of John R. Reinfelder.
+Previously, I completed my dual PhD in **Environmental Sciences** under the supervision of Professor Joel D. Blum and in **Chemistry** under the supervision of Professor Paul Zimmerman in Dec 2019 as a National Science Foundation graduate fellow and Rackham Merit Fellow. I received a B.A. in **Chemistry** in May 2013 from Rutgers the State University of New Jersey, where I worked on mercury photolysis within marine phytoplankton under the supervision of John R. Reinfelder.
 
 ### Awards
 University of Michigan International Institute Fellowship to study relativistic quantum chemistry at CNRS, France (2019)
