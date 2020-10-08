@@ -6,11 +6,12 @@ description:
 nav: true
 ---
 
-### Graduate Student Instructor (University of Michigan)
+# Teaching at the University of Michigan
+### Graduate Student Instructor
 
 - *Thermodynamics and Kinetics* (CHEM 463), Winter 2018.
 
 
-### Guest Lecture 
-- Two guest lectures in **Isotope Geochemistry** (EARTH 580), Fall 2017.
+### Guest Lecturer 
+- *Isotope Geochemistry* (two lectures; EARTH 580), Fall 2017.
                                       
