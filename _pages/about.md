@@ -13,6 +13,7 @@ news: false
 social: true
 ---
 
+
 I am a Postdoctoral Fellow in the [Division of Environmental Studies and Engineering](http://dese.postech.ac.kr/welcomeeng.do) at Pohang University of Science and Technology (POSTECH), South Korea. Currently, I work with Professor Sae Yun Kwon to determine the photochemical degradation of mercury within marine phytoplankton using mercury stable isotopes coupled with X-ray absorption spectroscopy at the synchrotron facility in the Pohang Accelerator Laboratory, South Korea. 
 
 My research interests include theory and computational chemistry of photochemical reactions and exotic isotope effects, experimental photochemistry using stable isotopes, marine phytoplankton and zooplankton, and oceanography field work. 
