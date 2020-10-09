@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-# Teaching at the University of Michigan
+##University of Michigan
 ### Graduate Student Instructor
 
 - *Thermodynamics and Kinetics* (CHEM 463), Winter 2018.
